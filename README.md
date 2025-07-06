@@ -11,6 +11,9 @@ uvicorn main:app --reload
 
 The API docs will be available at http://127.0.0.1:8000/docs or http://127.0.0.1:8000/redoc
 
+on render
+https://api-test-fcdr.onrender.com/docs or https://api-test-fcdr.onrender.com/redoc
+
 ## API Endpoints
 
 - POST /items - Create a new item
